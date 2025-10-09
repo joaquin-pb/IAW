@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joaquin-pb.io/IAW/</loc>
+    <loc>https://joaquin-pb.github.io/IAW/</loc>
     <lastmod>2025-10-02T17:43:45+00:00</lastmod>
   </url><url>
-    <loc>https://joaquin-pb.io/IAW/posts/hello-world/</loc>
+    <loc>https://joaquin-pb.github.io/IAW/posts/hello-world/</loc>
   </url><url>
-    <loc>https://joaquin-pb.io/IAW/categories/</loc>
+    <loc>https://joaquin-pb.github.io/IAW/categories/</loc>
   </url><url>
-    <loc>https://joaquin-pb.io/IAW/posts/</loc>
+    <loc>https://joaquin-pb.github.io/IAW/posts/</loc>
   </url><url>
-    <loc>https://joaquin-pb.io/IAW/tags/</loc>
+    <loc>https://joaquin-pb.github.io/IAW/tags/</loc>
   </url>
 </urlset>

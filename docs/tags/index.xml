@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mi sitio con hugo</title>
-    <link>https://joaquin-pb.io/IAW/tags/</link>
+    <link>https://joaquin-pb.github.io/IAW/tags/</link>
     <description>Recent content in Tags on Mi sitio con hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://joaquin-pb.io/IAW/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joaquin-pb.github.io/IAW/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
