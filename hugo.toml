@@ -1,4 +1,0 @@
-baseURL = 'https://joaquin-pb.github.io/IAW/'
-languageCode = 'en-us'
-title = 'Mi sitio con hugo'
-theme = "ananke"
