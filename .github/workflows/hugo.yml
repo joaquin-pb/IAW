@@ -1,9 +1,9 @@
-name: Deploy Hugo site to GitHub Pages
+name: Deploy Hugo site (Ananke) to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # o la rama que uses
+      - main  # Usa tu rama principal si es diferente
 
 permissions:
   contents: read
@@ -17,6 +17,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,14 +26,15 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
+          extended: true
 
       - name: Build Hugo site
-        run: hugo --minify
+        run: hugo --minify --config hugo.toml
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./public  # Hugo genera aquí los archivos del sitio
 
   deploy:
     environment:
@@ -44,4 +46,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
