@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi sitio con hugo</title>
+    <link>https://joaquin-pb.github.io/IAW/posts/</link>
+    <description>Recent content in Posts on Mi sitio con hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://joaquin-pb.github.io/IAW/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://joaquin-pb.github.io/IAW/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joaquin-pb.github.io/IAW/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;bienvenido-mi-nombre-es-joaquin&#34;&gt;Bienvenido mi nombre es joaquin&lt;/h1&gt;&#xA;&lt;p&gt;Este es un &lt;strong&gt;sitio web estático&lt;/strong&gt; hecho con Hugo y Markdown.&lt;/p&gt;&#xA;&lt;p&gt;Desde aquí puedes navegar a las secciones principales:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../about/&#34;&gt;Sobre mí&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../contact/&#34;&gt;Contacto&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../blog/primer-post/&#34;&gt;Blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;imagen-iaw&#34;&gt;&lt;img src=&#34;../../../static/images/IAW.jpg&#34; alt=&#34;imagen IAW&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Sigue explorando para aprender más sobre Hugo y Markdown.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
